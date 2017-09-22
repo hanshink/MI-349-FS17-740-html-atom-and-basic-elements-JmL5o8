@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Doug the pug</title></head>
+
 <body>
 
 <a href="https://en.wikipedia.org/wiki/Doug_the_Pug" target="">
