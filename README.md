@@ -1,5 +1,10 @@
+<html>
+<head>
+<title>Doug the pug</title></head>
+<body>
+
 <a href="https://en.wikipedia.org/wiki/Doug_the_Pug" target="">
-  <img src="https://commons.wikimedia.org/wiki/File:DougNYC.JPG" alt="This is Doug"
+  <img width="500px" src="https://imgur.com/2e2L0Z5.jpg" alt="This is Doug">
 </a>
 <h1>Doug The Pug!</h1>
 <h2>Biography:</h2>
@@ -12,3 +17,4 @@
     <li> My singing voice is a combination of Jesus and Fergie</li>
   </ul>
 </p>
+</body>
